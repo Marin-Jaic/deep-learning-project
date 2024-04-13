@@ -3,6 +3,7 @@ import math
 from torch import nn
 
 from lcpfn import bar_distribution, encoders, priors, train
+from lcpfn.priors import utils
 from lcpfn import utils
 
 
